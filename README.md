@@ -6,12 +6,12 @@ This is the boilerplate that [Infinite Red](https://infinite.red) uses as a way 
 
 **Yes, it is. So we took a generated with ignite project and upgraded the react-navigation to version 4.0 and also included examples of tab navigation, switch navigation, stack navigation, and drawer navigation.**
 
-Also, it is important to mention that this a functional component sample. Basically all you can find online are class componentes, so we thought it is worth.  **Have fun. your friends at [3Metas](https://www.3metas.com).**
+Also, it is important to mention that this a functional component sample. Basically, all you can find online are class componentes, so we thought it is worth.  **Have fun. your friends at [3Metas](https://www.3metas.com).**
 
 Currently includes:
 
 - React Native
-- React Navigation 4.0
+- React Navigation **4.0**
 - MobX State Tree
 - TypeScript
 - And more!
