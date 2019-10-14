@@ -1,13 +1,12 @@
-# letsdoitApp
+# React Native App Template. 
 
-[![CircleCI](https://circleci.com/gh/infinitered/ignite-bowser.svg?style=svg)](https://circleci.com/gh/infinitered/ignite-bowser)
+## Ignite Bowser boilerplate with react-navigation 4.0 and navigation samples. 
 
-## The latest and greatest boilerplate for Infinite Red opinions
+This is the boilerplate that [Infinite Red](https://infinite.red) uses as a way to test bleeding-edge changes to their React Native stack.
 
-This is the boilerplate that [Infinite Red](https://infinite.red) uses as a way to test bleeding-edge changes to our React Native stack.
+**Yes, it is. So we took a generated with ignite project and upgraded the react-navigation to version 4.0 and also included examples of tab navigation, switch navigation, stack navigation, and drawer navigation.**
 
-Yes, it is. So we took a generated with ignite project and upgraded the react-navigation to version 4.0 and also included examples of tab navigation, switch navigation, stack navigation, and drawer navigation. 
-Also, it is important to mention that this a functional component sample. Basically all you can find online are class componentes, so we thought it is worth.  Have fun. your friends at 3Metas.
+so, it is important to mention that this a functional component sample. Basically all you can find online are class componentes, so we thought it is worth.  **Have fun. your friends at [3Metas](https://www.3metas.com).**
 
 Currently includes:
 
@@ -99,7 +98,7 @@ This is where your translations will live if you are using `react-native-i18n`.
 This is where your app's models will live. Each model has a directory which will contain the `mobx-state-tree` model file, test file, and any other supporting files like actions, types, etc.
 
 **navigation**
-This is where your `react-navigation` navigators will live.
+This is where your `react-navigation` navigators will live. **And here we made changes to include the Auth Workflow and all the navigation components.** 
 
 **screens**
 This is where your screen components will live. A screen is a React component which will take up the entire screen and be part of the navigation hierarchy. Each screen will have a directory containing the `.tsx` file, along with any assets or other helper files.
@@ -136,11 +135,13 @@ In `app/app.tsx`, change `SHOW_STORYBOOK` to `true` and reload the app.
 
 For Visual Studio Code users, there is a handy extension that makes it easy to load Storybook use cases into a running emulator via tapping on items in the editor sidebar. Install the `React Native Storybook` extension by `Orta`, hit `cmd + shift + P` and select "Reconnect Storybook to VSCode". Expand the STORYBOOK section in the sidebar to see all use cases for components that have `.story.tsx` files in their directories.
 
-## Previous Boilerplates
+## Premium Support from ignite 
 
-- [2017 aka Andross](https://github.com/infinitered/ignite-andross)
-- [2016 aka Ignite 1.0](https://github.com/infinitered/ignite-ir-boilerplate-2016)
+[Ignite CLI](https://infinite.red/ignite), [Ignite Andross](https://github.com/infinitered/ignite-andross), and [Ignite Bowser](https://github.com/infinitered/ignite-bowser), as open source projects, are free to use and always will be. [Infinite Red](https://infinite.red/) offers premium Ignite support and general mobile app design/development services. Email them at [hello@infinite.red](mailto:hello@infinite.red) to get in touch with them for more details.
 
-## Premium Support
+## About [3Metas](https://www.3metas.com)
+We are a Digital Strategy company building apps, services, and platforms for people and customers around the globe.
 
-[Ignite CLI](https://infinite.red/ignite), [Ignite Andross](https://github.com/infinitered/ignite-andross), and [Ignite Bowser](https://github.com/infinitered/ignite-bowser), as open source projects, are free to use and always will be. [Infinite Red](https://infinite.red/) offers premium Ignite support and general mobile app design/development services. Email us at [hello@infinite.red](mailto:hello@infinite.red) to get in touch with us for more details.
+Powered By [23Blocks](https://www.23blocks.com)
+
+With Love from Boulder, CO.
